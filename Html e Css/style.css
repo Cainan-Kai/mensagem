@@ -1,0 +1,15 @@
+body{
+    /*keywords*/
+    color:red;
+    /*hexadecimal*/
+    color:#ffff;
+    /*rgb*/
+    color: rgb(255, 100, 0);
+    /*rgba*/
+    color:rgb(255, 0, 0, 0.255);
+    /*hsl*/
+    color:hsl(0, 80%, 50%);
+    /*hsla*/
+    color:hsla(0, 30%, 20, 0.5);
+
+}
